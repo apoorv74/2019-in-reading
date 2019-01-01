@@ -1,0 +1,1 @@
+- [Indian Judiciary in 2018 - Scroll](https://scroll.in/article/906437/explainer-from-impeachment-motion-to-internal-rift-2018-was-a-year-of-tumult-for-indias-judiciary)

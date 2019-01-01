@@ -1,0 +1,1 @@
+- [Highlights of 2018- Fast Forward Labs](https://blog.fastforwardlabs.com/2018/12/18/highlights-2018.html)
