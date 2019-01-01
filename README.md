@@ -1,2 +1,6 @@
-# 2019-in-reading
-planning to organise whatever I read in this repo
+## 2019-in-reading
+
+- [Tech](tech.md)
+- [Non Tech](nonTech.md)
+- [Books](books.md)
+
