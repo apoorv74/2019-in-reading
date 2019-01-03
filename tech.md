@@ -1,2 +1,3 @@
 - [Highlights of 2018- Fast Forward Labs](https://blog.fastforwardlabs.com/2018/12/18/highlights-2018.html)
 - [Things I dont know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
+- [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)
