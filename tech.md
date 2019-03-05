@@ -2,3 +2,4 @@
 - [Things I dont know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
 - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)
 - [Lunar Conversations](https://www.c82.net/work/?id=368)
+- [Stephen Wolfram - AMA](https://www.reddit.com/r/IAmA/comments/axf32h/i_am_stephen_wolfram_founder_ceo_of_wolfram/)
